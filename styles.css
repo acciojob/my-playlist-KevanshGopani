@@ -2,8 +2,8 @@
 body{
 	background-color:rgb(204, 204, 204);
 }
-h1,h2{
-	display:flex;
+
+h1,h2 {
 	justify-content:center;
 	text-align:center;
 }
